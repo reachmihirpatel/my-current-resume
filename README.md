@@ -10,7 +10,7 @@ Welcome to the repository containing the most up-to-date version of my resume. T
 
 
 ## Viewing or Updating the Resume
-Feel free to explore the latest version of my resume through the `MihirPatel_Resume.pdf` file.
+Feel free to explore the latest version of my resume through the `MihirPatel_Resume_Feb2025.pdf` file.
 
 Thank you for visiting, and please don’t hesitate to reach out if you have any questions or opportunities to discuss!
 
